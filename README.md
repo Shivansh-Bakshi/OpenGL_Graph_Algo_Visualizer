@@ -10,6 +10,16 @@ It makes use of the following libraries in order to utilise OpenGL:
 
 The static library files and header files have been consolidated into the ```external``` folder and can be used from there.
 
+### TODO
+- [x] Create a blank window
+- [ ] Display a basic square matrix
+- [ ] Add color for individual cells
+- [ ] Add slider for selecting matrix dimensions
+- [ ] Allow adding obstacles
+- [ ] Implement BFS
+- [ ] Implement DFS
+- [ ] Display the implementation
+
 ## Build Instructions
 The build procedure follows the simple cmake-build-install process.
 
