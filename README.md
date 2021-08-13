@@ -1,6 +1,7 @@
 # OpenGL Graph Algorithms Visualizer
 This repository is for developing a visual demonstration of graph algorithms such as BFS, DFS, Path Finding Algorithms, etc., on a 2D grid for the ease of understanding.  
 It is my first attempt at using OpenGL for a project so this also serves for my understanding of graphics application development.  
+I am following the tutorials provided at [http://www.opengl-tutorial.org/](http://www.opengl-tutorial.org/)
 
 It makes use of the following libraries in order to utilise OpenGL:
 - GLEW 2.1.0
