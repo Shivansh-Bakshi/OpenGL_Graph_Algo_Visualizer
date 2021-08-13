@@ -1,11 +1,11 @@
 #include <iostream>
 
-#include "../../external/include/GL/glew.h"
+#include "GL/glew.h"
 
-#include "../../external/include/GL/glfw3.h"
+#include "GL/glfw3.h"
 GLFWwindow* window;
 
-#include "../../external/include/GL/glm/glm.hpp"
+#include "GL/glm/glm.hpp"
 using namespace glm;
 
 int main( void )
