@@ -29,8 +29,7 @@ link_directories(
 )
 
 set(GL_LIBS
-        -lglew32 
-		-lglfw3
+        -lglew32 -lglfw3
 )
 
 set(OPENGL_LIBS
